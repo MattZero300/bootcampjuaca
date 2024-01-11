@@ -22,3 +22,5 @@ Utiliozamos los comandos git clone (en Git Bash) para clonar repositorio desde g
 # Aprendemos sobre Atributos
 
 Aprendemos sobre como incorporar atributos a nuestras etiquetas en HTML
+
+. documentacion oficial es w3schools 
