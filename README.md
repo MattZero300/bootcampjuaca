@@ -15,3 +15,10 @@ Utiliozamos los comandos git clone (en Git Bash) para clonar repositorio desde g
 - p
 - br
 - hr
+- meta (author, keywords, viewport)
+- img
+
+
+# Aprendemos sobre Atributos
+
+Aprendemos sobre como incorporar atributos a nuestras etiquetas en HTML
